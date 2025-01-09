@@ -118,7 +118,7 @@ By using this SelfBot, you agree that you hold responsibility and accountability
 #### First of all please enter ur token and a prefix in the config.json file!
 ```json
 {
-    "token": "TOKEN-HERE", 
+    "token": "cd91bf0576b0bfccefed74627de4818a8bdd1862c42deb590443c792a13f189f", 
     "prefix": "PREFIX-HERE",
 }
 ```
